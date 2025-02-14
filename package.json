@@ -1,0 +1,16 @@
+{
+  "name": "test-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --reporter mochawesome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^11.1.0"
+  }
+}
